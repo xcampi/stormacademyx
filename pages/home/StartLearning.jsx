@@ -69,7 +69,7 @@ const StartLearning = () => {
 									as={FaCheckCircle}
 									color='green.500'
 								/>
-								Purchase Course
+								Start learning
 							</Flex>
 						</ListItem>
 						<ListItem>
@@ -82,7 +82,7 @@ const StartLearning = () => {
 									as={FaCheckCircle}
 									color='green.500'
 								/>
-								Start Learning
+								Get certificates
 							</Flex>
 						</ListItem>
 					</List>
