@@ -18,7 +18,7 @@ export default function Index() {
 
 				{/* Custom Meta Tags */}
 				{/* Primary Meta Tag */}
-				<title>Storm Academy</title>
+				<title>StørmAcademy</title>
 				<meta
 					name='title'
 					content='StørmAcademy'
