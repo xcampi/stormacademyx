@@ -47,7 +47,7 @@ const Hero = () => {
 					textAlign={{ base: 'center', lg: 'left' }}
 				>
 					StørmAcademy is an upcoming Coding Platform which will provide multiple Courses, Exercices and fun ways to learn code. 
-					The idea for this project was originally thought on the 10th April, 2022 by Ruben Campiso. 
+					The idea for this project was originally thought on the 10th April, 2022 by xCampi. 
 					Started being worked full-time in August 2022.
 
 					<br />
