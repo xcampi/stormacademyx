@@ -21,7 +21,7 @@ export default function Index() {
 				<title>Storm Academy</title>
 				<meta
 					name='title'
-					content='Storm Academy'
+					content='StørmAcademy'
 				/>
 				<meta
 					name='description'
