@@ -55,6 +55,7 @@ const Footer = () => {
 					fontWeight='semibold'
 				>
 					StørmAcademy {year} | All Rights Reserved
+					
 				</Text>
 			</Flex>
 		</Box>
