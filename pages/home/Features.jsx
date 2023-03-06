@@ -21,23 +21,23 @@ import { RiArrowRightUpLine } from 'react-icons/ri';
 const featCard = [
 	{
 		icon: <GrCertificate size='60px' />,
-		title: 'get certificate',
-		desc: 'add value to your learning and increase the chance of getting hired on your dream job',
+		title: 'Certifications',
+		desc: 'Our courses give you a certification that will help you getting more knowledge and a possibility to create the impossible.',
 	},
 	{
 		icon: <HiCode size='60px' />,
-		title: 'variety of courses',
-		desc: 'a wide range of courses to choose and learn from with hands-on practices.',
+		title: 'Variety of Courses',
+		desc: 'A wide range of Courses that offer multiple and unique tutorials.',
 	},
 	{
 		icon: <FaChalkboardTeacher size='60px' />,
-		title: 'amazing instructor',
-		desc: 'our amazing instructors brings experience, knowledge and fun on the table.',
+		title: 'Instructors',
+		desc: 'Our instructors actively work to keep providing fun and unique tutorials to improve your experience!',
 	},
 	{
 		icon: <BiSupport size='60px' />,
-		title: 'life time support',
-		desc: 'you get an amazing 24x7 support from our customer services for all kind of queries.',
+		title: 'Support & Contact',
+		desc: 'We will help with any error or questions our users provide us.',
 	},
 ];
 
@@ -70,7 +70,7 @@ const Features = () => {
 										size='2xl'
 										color='white'
 									>
-										our features
+											Our features
 									</Heading>
 
 									<Heading
@@ -80,7 +80,7 @@ const Features = () => {
 										size='2xl'
 										color='white'
 									>
-										specially for you !!
+										Specially for you
 									</Heading>
 								</Box>
 								<Flex
@@ -102,7 +102,7 @@ const Features = () => {
 								colorScheme='whatsapp'
 								rightIcon={<RiArrowRightUpLine size='20px' />}
 							>
-								See All Features
+								See All
 							</Button>
 						</CardBody>
 					</Card>
