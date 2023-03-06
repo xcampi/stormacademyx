@@ -21,22 +21,22 @@ const courseCard = [
 		image: 'cpp.png',
 		star: 4.9,
 		review: 430,
-		time: '02:35',
-		title: 'Learn C++: Beginner Tutorial',
+		time: '23:10:35',
+		title: 'C++: Beginner Course',
 	},
 	{
 		image: 'javascript.svg',
-		star: 4.8,
-		review: 410,
-		time: '03:35',
-		title: 'Learn JS: Beginner Tutorial',
+		star: 4.3,
+		review: 12,
+		time: '12:10:38',
+		title: 'JavaScript Beginner Course',
 	},
 	{
 		image: 'react.svg',
-		star: 4.8,
-		review: 560,
-		time: '06:35',
-		title: 'Learn ReactJS: Beginner Tutorial',
+		star: 4.7,
+		review: 8,
+		time: '8:20:00',
+		title: 'ReactJS Beginner Course',
 	},
 ];
 
@@ -123,7 +123,16 @@ const Courses = () => {
 									border='1px solid'
 									borderColor='black'
 								>
-									View Course
+									Buy
+								</Button>
+									<Button
+									borderRadius='2xl'
+									variant='outline'
+									color='black'
+									border='1px solid'
+									borderColor='black'
+								>
+									Buy w/points
 								</Button>
 							</CardFooter>
 						</Card>
