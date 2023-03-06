@@ -78,10 +78,16 @@ const TopBar = () => {
 								Tutorials
 							</MenuButton>
 							<MenuList>
-								<MenuItem>Website Development</MenuItem>
-								<MenuItem>App Development</MenuItem>
-								<MenuItem>Game Development</MenuItem>
-								<MenuItem>Software Development</MenuItem>
+								<MenuItem>HTML5
+									      function Redirect() {
+            									location.assign("https://www.xcampi.netlify.io");
+										      </MenuItem>
+								<MenuItem>CSS3</MenuItem>
+								<MenuItem>JavaScript</MenuItem>
+								<MenuItem>PHP</MenuItem>
+								<MenuItem>Java</MenuItem>
+								<MenuItem>Ruby</MenuItem>
+								<MenuItem>Swift</MenuItem>
 							</MenuList>
 						</Menu>
 						<Button
@@ -92,7 +98,7 @@ const TopBar = () => {
 							fontSize='xl'
 							fontWeight='normal'
 						>
-							Contact
+							Support
 						</Button>
 						<Menu>
 							<MenuButton
@@ -188,10 +194,16 @@ const TopBar = () => {
 											Tutorials
 										</MenuButton>
 										<MenuList>
-											<MenuItem>Website Development</MenuItem>
-											<MenuItem>App Development</MenuItem>
-											<MenuItem>Game Development</MenuItem>
-											<MenuItem>Software Development</MenuItem>
+											<MenuItem>HTML5
+									      			function Redirect() {
+            											location.assign("https://www.xcampi.netlify.io");
+										      </MenuItem>
+											<MenuItem>CSS3</MenuItem>
+											<MenuItem>JavaScript</MenuItem>
+											<MenuItem>PHP</MenuItem>
+											<MenuItem>Java</MenuItem>
+											<MenuItem>Ruby</MenuItem>
+											<MenuItem>Swift</MenuItem>
 										</MenuList>
 									</Menu>
 									<Button
