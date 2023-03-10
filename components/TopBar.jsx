@@ -191,10 +191,7 @@ const TopBar = () => {
 											Tutorials
 										</MenuButton>
 										<MenuList>
-											<MenuItem>HTML5
-									      			function Redirect() {
-            											location.assign("https://www.xcampi.netlify.io");
-										      </MenuItem>
+											<MenuItem>HTML5</MenuItem>
 											<MenuItem>CSS3</MenuItem>
 											<MenuItem>JavaScript</MenuItem>
 											<MenuItem>PHP</MenuItem>
