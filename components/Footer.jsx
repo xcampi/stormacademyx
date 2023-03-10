@@ -55,20 +55,6 @@ const Footer = () => {
 					fontWeight='semibold'
 				>
 					StørmAcademy {year} | All Rights Reserved
-      const button = document.createElement('button')
-
-      button.innerText = ''
-
-      button.id = 'mainButton'
-
-      // Attach the "click" event to your button
-      button.addEventListener('click', () => {
-        // When there is a "click"
-        // it shows an alert in the browser
-        alert('Oh, you clicked me!')
-      })
-
-      document.body.appendChild(button)
 				</Text>
 			</Flex>
 		</Box>
