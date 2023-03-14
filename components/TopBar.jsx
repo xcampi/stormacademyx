@@ -78,13 +78,10 @@ const TopBar = () => {
 								Tutorials
 							</MenuButton>
 							<MenuList>
-								<MenuItem>HTML5</MenuItem>
-								<MenuItem>CSS3</MenuItem>
-								<MenuItem>JavaScript</MenuItem>
-								<MenuItem>PHP</MenuItem>
-								<MenuItem>Java</MenuItem>
-								<MenuItem>Ruby</MenuItem>
-								<MenuItem>Swift</MenuItem>
+								<MenuItem>Website Development</MenuItem>
+								<MenuItem>App Development</MenuItem>
+								<MenuItem>Game Development</MenuItem>
+								<MenuItem>Software Development</MenuItem>
 							</MenuList>
 						</Menu>
 						<Button
@@ -191,13 +188,10 @@ const TopBar = () => {
 											Tutorials
 										</MenuButton>
 										<MenuList>
-											<MenuItem>HTML5</MenuItem>
-											<MenuItem>CSS3</MenuItem>
-											<MenuItem>JavaScript</MenuItem>
-											<MenuItem>PHP</MenuItem>
-											<MenuItem>Java</MenuItem>
-											<MenuItem>Ruby</MenuItem>
-											<MenuItem>Swift</MenuItem>
+											<MenuItem>Website Development</MenuItem>
+											<MenuItem>App Development</MenuItem>
+											<MenuItem>Game Development</MenuItem>
+											<MenuItem>Software Development</MenuItem>
 										</MenuList>
 									</Menu>
 									<Button
